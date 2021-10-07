@@ -1,0 +1,196 @@
+https://www.quizerry.com/2021/06/module-1-quiz-5/
+
+1.
+Question 1
+If I miss an assignment deadline or fail an assignment, I fail the course.
+
+False
+
+
+2.
+Question 2
+This is a completely self-paced course. The deadlines don't matter at all!
+
+False
+
+
+3.
+Question 3
+I can go through the course faster and complete it faster!
+
+
+True
+
+4.
+Question 4
+Where can you get access to the example source code used in the course and the Lecture Slide PDFs?
+
+The link to the GitHub.com repository, which contains the example code used in this course,
+ Lecture Slide PDFs, as well as assignment starter code is given to you in the first module 
+ under the title "ALL of the EXAMPLE SOURCE CODE for this Course".
+
+
+5.
+Question 5
+In order to install Browser Sync, what must be installed first?
+
+NodeJs
+
+6.
+Question 6
+The core purpose of HTML is to
+
+Communicate the structure of the content
+
+7.
+Question 7
+W3C (World Wide Web Consortium) is the only organization that dictates what and how browsers should implement HTML5
+
+False
+
+
+8.
+Question 8
+ALL HTML5 tags must
+
+
+Have an opening tag
+
+9.
+Question 9
+Identify correct HTML5 page declaration(s)
+
+<!DOCTYPE html>
+
+10.
+Question 10
+What would happen if you didn't specify the HTML5 declaration?
+
+The page will be interpreted in quirks mode
+
+
+11.
+Question 11
+Browsers ALWAYS interpret HTML sequentially, top to bottom
+
+True
+
+12.
+Question 12
+Identify invalid HTML code snippet below (assume code around it, i.e., declaration, etc. is valid)
+
+1234
+<section>
+<p>The sale numbers are in...
+</section> You ARE a closer, Johnson!
+</p>
+
+13.
+Question 13
+Meta tags communicate information about the browser to the server
+
+False
+
+
+14.
+Question 14
+Without applying any additional styles, the following code snippet will show up in the browser as how many lines of text? (Assume the browser is stretched wide enough not to cause any single line to wrap)
+
+1234567891011121314151617
+<div>Dear all,
+<span>I took this really cool course
+</span></div>
+<span>on Coursera.org. I think it's
+my favorite course I've EVER taken!
+Here is the URL for it:
+</span>
+<a href="...">HTML, CSS and JS for Web Developers</a>
+<div>
+Does anyone know how I can give this course 6
+
+a)4
+
+15.
+Question 15
+Identify invalid HTML code snippet (assume code above and below this code is valid)
+
+
+All are valid!
+
+
+16.
+Question 16
+Semantic HTML tags
+
+
+1 point
+
+May help the SEO ranking of the page
+
+
+
+Help computers better understand the structure of the page
+
+
+
+Help humans better understand the structure of the page
+
+
+
+17.
+Question 17
+One purpose of HTML Character Entity References is
+
+
+1 point
+
+To allow the browser to display certain characters it would otherwise interpret as part of HTML code and not something to display to the user
+
+
+18.
+Question 18
+Using only HTML, how would you make sure that 3 words in an HTML document ALWAYS appear together on 1 line, even if the text word-wraps because the browser window is too narrow for that text line? 
+
+Place &nbsp; entity reference after the 1st word and after the 2nd word (with no spaces in between words and entity references)
+
+19.
+Question 19
+How can you force the browser to open a link in a new window or tab?
+
+
+Include target='_blank' attribute as part of the <a> tag
+
+20.
+Question 20
+The following code rendering in the middle section of the page allows someone to directly link to that middle section of the page, not just the beginning of the page:
+
+1
+<div id="superInterestingContentHere">Bla Bla</div>
+
+1 point
+
+True
+
+21.
+Question 21
+Even though the width and height attributes of the 'img' tag are not required, it's always a good idea to use them
+
+
+1 point
+
+True
+
+22.
+Question 22
+WHATWG does NOT version HTML. For them, it's NOT HTML5. It's just HTML.
+
+
+1 point
+
+True
+
+23.
+Question 23
+Quirks Mode is when the browser
+
+Assumes that the HTML in the web page is NOT following the HTML standard, i.e., not in standards mode. That will cause styles not to work correctly, etc.
