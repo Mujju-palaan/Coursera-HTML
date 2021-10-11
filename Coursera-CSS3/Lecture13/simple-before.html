@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple selectors</title>
+
+    <style>
+        h2 {
+            color: red;
+            text-align: center;
+        }
+
+        .highlight {
+            font-size: 20px;
+            font-weight: bold;
+            font-style: italic;
+            background-color: green;
+            opacity: .6;
+        }
+        p,h1{
+            color: blue;
+            text-align: center;
+            
+            font-weight: bold;
+        }
+        
+        #mainpoint{ font-style: inherit;
+            color: blue;
+            text-align: center;
+            background-color: red;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Simple selectors (h1)</h1>
+<h2>Subheading 1 (h2)</h2>
+<p class="highlight">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+    Repellendus quos alias ad adipisci, est quas cum consectetur libero quia deserunt soluta, 
+    delectus accusantium placeat impedit dolor, expedita doloremque harum vel.</p>
+<p class="highlight">paragraph with attribute
+    class="highlight". Lorem ipsum dolor sit amet
+    consectetur adipisicing elit. </p>
+<h2> Subheading 2</h2>    
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+    Repellendus quos alias ad adipisci, est quas cum consectetur libero quia deserunt soluta, 
+    delectus accusantium placeat impedit dolor, expedita doloremque harum vel.</p>
+<div>This is main part of the article so attribute
+<span id="mainpoint">id=mainpoint.</span>
+</div>
+</body>
+</html>
